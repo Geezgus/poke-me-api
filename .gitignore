@@ -1,0 +1,9 @@
+# [!] Keep environment variables out of version control
+.env
+
+# Personal/Workspace settings
+.vscode
+
+# Unnecessary directories
+node_modules
+build
